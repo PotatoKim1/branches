@@ -1,1 +1,2 @@
-hello
+if True : 
+   print('hello')
